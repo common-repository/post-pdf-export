@@ -1,0 +1,188 @@
+/* Admin CSS style */
+#pdfex-wrap .field-wrap {
+	background: #edeae3;
+	color: #48454a;
+	font-family: Calibri, "Times New Roman", serif;
+	margin-bottom: 10px;
+
+	-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+}
+
+#pdfex-wrap .field-wrap:hover {
+	background: #e4dfd4;
+}
+
+#pdfex-wrap .field-wrap .field {
+	padding: 4px;
+	font-weight: bold;
+	border-bottom: 1px solid #f8f6f0;
+	padding: 5px 10px;
+}
+
+#pdfex-wrap .field-wrap .field label , pdfex-wrap .field-wrap .field input {
+	float: left;
+}
+
+#pdfex-wrap .field-wrap .field textarea {
+	width: 100%;
+	height: 100px;
+	margin-top: 10px;
+}
+
+#pdfex-wrap .field-wrap .field label {
+	width: 180px;
+	font-size: 14px;
+}
+
+#pdfex-wrap .field-wrap .code-list {
+	margin-left: 15px;
+	font-weight: normal !important;
+}
+
+#pdfex-wrap .field-wrap .field #cat , #pdfex-wrap .field-wrap .field #author, #pdfex-wrap .field-wrap .field #status, #pdfex-wrap .field-wrap .field #visibility  {
+	min-width: 150px;
+}
+
+#pdfex-wrap .field-wrap iframe {
+	background: #FFF;
+}
+
+#pdfex-wrap .field-wrap .inner {
+	padding: 10px;
+	border: 1px solid #ddd8cd;
+	margin-top: 15px;
+
+	-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+}
+
+#pdfex-wrap .field-wrap #looptemplate, #pdfex-wrap .field-wrap #bodytemplate {
+	height: 250px;
+}
+
+#pdfex-wrap #pdfex-save {
+	margin: 10px 0px;
+}
+
+#pdfex-wrap #form-wrap {
+	margin-top: 15px;
+	width: 900px;
+	float:left;
+}
+
+#pdfex-donate-wrap {
+	float: left;
+    font-weight: normal !important;
+    text-align: center;
+    width: 300px;
+}
+
+#pdfex-wrap div.code-list ul li a {
+	border:1px solid #bbbbbb;
+	background:#f7f7f7;
+	padding:5px 10px;
+	font-size:14px;
+	cursor:pointer;
+	float:left;
+	margin:2px;
+	display:block;
+}
+
+#pdfex-wrap div.code-list ul li a:hover {
+	background:#FFFFFF;
+}
+
+#pdfex-wrap .note {
+	padding: 4px;
+	font-size: 12px;
+	font-style:italic;
+	border-top: 1px solid #ddd8cd;
+	padding: 5px 10px;
+}
+
+#pdfex-wrap .desc-text {
+	font-size: 12px;
+	font-style:italic;
+}
+
+#pdfex-wrap .code {
+	font-family: Consolas,Monaco,"Courier New",Courier,monospace;
+	font-style:normal !important;
+}
+
+#pdfex-wrap .clr {
+	clear:both;
+}
+
+#pdfex-wrap .center {
+	text-align:center;
+}
+
+#pdfex-wrap .std-mar {
+	margin:5px;
+}
+
+#pdfex-wrap .sept-mar1 {
+	margin:0px 1px;
+}
+
+#pdfex-wrap .nomar {
+	margin:0px !important;
+}
+
+#pdfex-wrap .marb5 {
+	margin-bottom: 5px;
+}
+
+#pdfex-wrap .marb10 {
+	margin-bottom: 10px;
+}
+
+#pdfex-wrap .marb20 {
+	margin-bottom: 20px;
+}
+
+#pdfex-wrap .sept-mar2 {
+	margin:0px 2px;
+}
+
+#pdfex-wrap .wd50 {
+	width: 50px;
+}
+
+#pdfex-wrap .wd100 {
+	width: 100px;
+}
+
+#pdfex-wrap .wd150 {
+	width: 150px;
+}
+
+#pdfex-wrap .wd200 {
+	width: 200px;
+}
+
+#pdfex-wrap .wd300 {
+	width: 300px;
+}
+
+#pdfex-wrap .wd400 {
+	width: 400px;
+}
+
+#pdfex-wrap .wd500 {
+	width: 500px;
+}
+
+#pdfex-wrap .wd600 {
+	width: 600px;
+}
+
+#pdfex-wrap .fl {
+	float: left;
+}
